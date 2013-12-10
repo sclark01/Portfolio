@@ -3,6 +3,21 @@
 
 ###In this repository you'll find some of the projects I have worked on organized by class
 
+####Comp120 -- Web Engineering 
+* Message Hub Mobile App
+	* Simple APP that pushes messages from iOS device to MessageHub API 
+
+####Comp15 -- Data Structures in C++
+* Nozama
+	* Simulation of a factory
+	* Uses Queues
+* BoggleSolver
+	* Implemenation of a boggle solver
+	* Uses a Trie to build a dictionary
+	* Uses a 2D array to hold the boggle board
+
+##Available Code Via Request Only:
+=========================
 ####Comp40 -- Machine Language and Assembly Code
 * Image Rotation
 	* Rotates PBM images (C)
@@ -20,17 +35,3 @@
 * RPN Calculator
 	* Written in UM Assembly Code, using defined Macros
 	* Implemented with two stacks 
-
-####Comp120 -- Web Engineering 
-* Message Hub Mobile App
-	* Simple APP that pushes messages from iOS device to MessageHub API 
-
-####Comp15 -- Data Structures in C++
-* Nozama
-	* Simulation of a factory
-	* Uses Queues
-* BoggleSolver
-	* Implemenation of a boggle solver
-	* Uses a Trie to build a dictionary
-	* Uses a 2D array to hold the boggle board
-
